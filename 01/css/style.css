@@ -1,6 +1,8 @@
+
 .u-mbm {
   margin-bottom: 20px;
   text-align: center;
+  
 }
 .btn {
   line-height: 40px;
@@ -46,3 +48,14 @@
 .is-big {
   font-size: 25px;
 }
+/* #wrapper-q6 {
+  position: relative;
+  width: 200px;
+  height: 200px;
+  background-color: blanchedalmond;
+}
+#q6 {
+  position: absolute;
+} */
+
+
